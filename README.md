@@ -2,6 +2,13 @@
 
 # Demo
 
+## Part 1
+[![Watch the video](./assets/part1%20screenshot.png)](https://www.youtube.com/watch?v=Mf6ysPQKsxQ&t=10s)
+
+
+## Part 2
+[![Watch the video](./assets/part2%20screenshot.png)](https://www.youtube.com/watch?v=9n1TRwP8fb0)
+
 ## Acceptance Criteria
 
 ```md
